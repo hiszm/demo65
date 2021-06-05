@@ -1,7 +1,4 @@
-[toc]
-from： szm1024@126.com
 
-to：xypan2@iflytek.com
 
 - [一、js数据类型](#一js数据类型)
 - [二、数组增删改查](#二数组增删改查)
